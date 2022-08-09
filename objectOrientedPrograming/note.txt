@@ -1,0 +1,36 @@
+// ========= object orientation er 4 ta mul ghati =====//
+1. Abstraction
+2. Encapsulation
+3. inheritance
+4. polymorphism
+
+Abstraction ==>> Hide somethings for simplicity [kothin jinis ke amader theke hide kore amader za proyojon ta dekhay](zemon: garir moddhe engine er kaj amader na janleo colbe tobe ami zekhane  bose gari calabo seita jana dorkar)
+
+Encapsulation ==>> class er vitorer kichu privet property thakbe zar access shudu class er vitore amra pabo baire pabo na(ze property baire access ase segulo ke diye vitorer privet property er kaj korte parbo)
+
+inheritance ==>> (child class will take matching properties and value form parent class )
+
+Polymorphism ==> (bohurupi kaj kore ... 
+ Overwrite Method that  inherit from parent   )
+
+
+
+//======= object orientation main goal ===========//
+1. Organize Code 
+2. Easier Code 
+3. Clean + understandable
+4. Easy to Maintain
+5. Memory efficient
+6. Dry
+
+//================ Alternative methods to OOP include =====================//
+* Functional Programing
+* Structured or modular Programing
+* Imperative Programing
+* Declarative Programing  
+
+
+//================================ CallBack =====================//
+ami nije ze funtion ke argument hisabe niye esashi ami take nijei call kore dibo ebong tar moddhe pera meter diye dibo eitay hocche callback function 
+
+
